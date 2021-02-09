@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melissa Gomes (ou Mell)</h1>
+<h1 align="center">Hi 👋, I'm Melissa Gomes (or Mell)</h1>
 <h3 align="center">In the middle of 2020 I started my journey (I would say very interesting) with programming and since then every week has been an adventure. I started my studies with Trybe and they helped me to get close to one of my passions which is programming.</h3>
 
 <h3 align="left">Connect with me:</h3>
