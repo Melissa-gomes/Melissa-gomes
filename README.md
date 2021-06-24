@@ -18,6 +18,11 @@
   Repositorio do projeto app de receitas, desenvolvido com React e ContextAPI
   <br>
 
+#### 📓📍MySQL:
+  📌 [All For One](https://github.com/Melissa-gomes/All-For-One)
+  Repositorio do projeto All for one, desenvolvido com MySQL
+  <br>
+
 #### 📓📍Mongodb:
   📌 [Cookmaster](https://github.com/Melissa-gomes/cookmaster)
   Repositorio do projeto Cookmaster, desenvolvido com Mongodb
