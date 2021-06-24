@@ -11,7 +11,7 @@
 
 ---
 
-### Languages, Tools and Projects:
+### Linguagens, ferramentas e projetos::
 
 #### 📓📍React:
   📌 [App de receitas](https://github.com/Melissa-gomes/App-de-receitas)
