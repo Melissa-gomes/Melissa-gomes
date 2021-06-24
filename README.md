@@ -18,8 +18,6 @@
   Repositorio do projeto app de receitas, desenvolvido com React e ContextAPI
   <br>
 
-
-
 #### 📓📍Java:
   📌 [Central de erros back-end](https://github.com/Melissa-gomes/Central-de-erros-back-end)
   Repositorio da parte back-end da aplicação desenvolvida em Java.
@@ -27,9 +25,9 @@
 
   📌 [Central de erros front-end](https://github.com/Melissa-gomes/Central-de-erros-front-end)
   Repositorio da parte front-end da aplicação desenvolvida em React consumindo o back-end do deploy na Heroku.
-
 <br>
 
 #### 📓📍Angular:
   📌[Lista de Tarefas](https://github.com/Melissa-gomes/Todo-list-angular)
   Uma aplicação que permite o usuario cadastras suas tarefas, marca-las como realizadas ou dispensa-las, aplicação desenvolvida com Angular 2.
+<br>
