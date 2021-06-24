@@ -37,6 +37,11 @@
   Repositorio da parte front-end da aplicação desenvolvida em React consumindo o back-end do deploy na Heroku.
 <br>
 
+#### 📓📍HTML:
+  📌 [Lessons Learned](https://github.com/Melissa-gomes/lessons-learned)
+  Repositorio do projeto Lessons learned, meu primeiro projeto só com HTML, é um portifolio bem simples.
+  <br>
+
 #### 📓📍Angular:
   📌[Lista de Tarefas](https://github.com/Melissa-gomes/Todo-list-angular)
   Uma aplicação que permite o usuario cadastras suas tarefas, marca-las como realizadas ou dispensa-las, aplicação desenvolvida com Angular 2.
