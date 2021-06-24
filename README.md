@@ -42,7 +42,7 @@
   Repositorio do projeto Lessons learned, meu primeiro projeto só com HTML, é um portifolio bem simples.
   <br>
 
-#### 📓📍Angular:
+#### 📓📍Vue:
   📌[Lista de Tarefas](https://github.com/Melissa-gomes/Todo-list-angular)
-  Uma aplicação que permite o usuario cadastras suas tarefas, marca-las como realizadas ou dispensa-las, aplicação desenvolvida com Angular 2.
+  Uma aplicação que permite o usuario cadastras suas tarefas, marca-las como realizadas ou dispensa-las, aplicação desenvolvida com Vue 2.
 <br>
